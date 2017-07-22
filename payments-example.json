@@ -1,0 +1,5 @@
+[
+    {"date": "01.01.2017", "sum": 1000, "currency": "USD"},
+    {"date": "05.01.2017", "sum": 27000, "currency": "UAH"},
+    {"date": "27.04.2017", "sum": 300, "currency": "USD", "rate": 27.50, "type": "exchange"}
+]
